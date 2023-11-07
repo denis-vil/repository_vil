@@ -1,4 +1,4 @@
-package build_ArrayFromPermutation;
+package buildArrayFromPermutation;
 
 public class Solution {
     public int[] buildArray(int[] nums) {
