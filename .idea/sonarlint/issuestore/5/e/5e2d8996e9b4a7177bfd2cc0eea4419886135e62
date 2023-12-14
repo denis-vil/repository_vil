@@ -1,0 +1,20 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ìï8½š‡ÃÆ1
+i
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ãƒ™8Õ›‡ÃÆ1
+i
+java:S3008"LRename this field "I" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼íèü8Õ›‡ÃÆ1
+i
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÅ´»8Õ›‡ÃÆ1
+n
+java:S3008	"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÿÃèıÿÿÿÿ8Õ›‡ÃÆ1
+n
+java:S3008
+"LRename this field "O" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ˆ­ñøÿÿÿÿ8Õ›‡ÃÆ1
+h
+java:S3008"LRename this field "F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„•§F8Õ›‡ÃÆ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8Ø›‡ÃÆ1
+L	java:S106"+Replace this use of System.out by a logger.(—˜ê€üÿÿÿÿ8Ü›‡ÃÆ1
+L	java:S106,"+Replace this use of System.out by a logger.(—˜ê€üÿÿÿÿ8Ş›‡ÃÆ1
+G	java:S106."+Replace this use of System.out by a logger.(Àš¸8Ş›‡ÃÆ1

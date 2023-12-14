@@ -5,8 +5,12 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/alishev" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/leetcode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/tinkoff" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="3ec758d6-d350-49af-aa0d-022ebccf7501" />
   </component>
 </module>
