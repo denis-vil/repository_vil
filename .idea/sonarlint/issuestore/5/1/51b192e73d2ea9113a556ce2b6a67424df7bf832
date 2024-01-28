@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áøƒÿÿÿÿÿ8óûáÇĞ1
+C
+java:S1170"!Make this final field static too.(æó¾óÿÿÿÿÿ8üáÇĞ1
+C
+java:S1170	"!Make this final field static too.(Æıªêùÿÿÿÿ8üáÇĞ1
+
+java:S4144}"nUpdate this method so that its implementation is not identical to "evenLengthGenerationThreeRules" on line 85.(±£ÛÛÿÿÿÿÿ8¨‡ŒÈĞ1
+L	java:S106"+Replace this use of System.out by a logger.(ô˜›õüÿÿÿÿ8‡üáÇĞ1
+o
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(–ì†8ˆüáÇĞ1
+:
+java:S2119:"Save and re-use this "Random".(¼İÅf8‹üáÇĞ1
+:
+java:S2119C"Save and re-use this "Random".(¼İÅf8ŒüáÇĞ1
+:
+java:S2119M"Save and re-use this "Random".(¼İÅf8üáÇĞ1
+:
+java:S2119W"Save and re-use this "Random".(¼İÅf8üáÇĞ1
+:
+java:S2119e"Save and re-use this "Random".(¼İÅf8öëäÇĞ1
+:
+java:S2119r"Save and re-use this "Random".(¼İÅf8£åÇĞ1
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8õÒåÇĞ1
