@@ -858,8 +858,6 @@ n
 a
 1src/main/java/leetcode/reverseInteger/Description,f/9/f9ae291c85aee2cbe976971c462652dce3345717
 c
-3src/main/java/leetcode/reverseInteger/Selution.java,b/6/b601bd0004290ea4e729c231ba025807305af03f
-c
 3src/main/java/leetcode/reverseInteger/Solution.java,8/4/847248c3073cf7ec775166a751104a02c6e2fbe9
 r
 Bsrc/main/java/leetcode/letterCombinationsOfPhoneNumber/Description,d/4/d48fb6e151d07a5321353f66430705ff37abfa85
@@ -873,10 +871,6 @@ b
 2src/main/java/leetcode/multiplyStrings/Description,e/3/e37bc910995c9f6e27d810601178228ef2b50b39
 d
 4src/main/java/leetcode/multiplyStrings/Solution.java,b/d/bdc783b552b20ad45a14a7164e6601082fd3550c
-_
-/src/main/java/leetcode/permutations/Description,c/8/c8815ef4928d9f9f7a63c8e6603267e7610d8785
-a
-1src/main/java/leetcode/permutations/Solution.java,c/8/c8a6431fb6fbe9132284c9fe9133c2ad18eda8d7
 ^
 .src/main/java/leetcode/rotateImage/Description,f/2/f217b43daf04489a760d84dce91790afab647d76
 `
