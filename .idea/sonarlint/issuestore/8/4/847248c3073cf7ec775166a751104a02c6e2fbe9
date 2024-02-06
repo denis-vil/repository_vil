@@ -1,0 +1,9 @@
+
+>
+java:S1643
+"Use a StringBuilder instead.(§å§öÿÿÿÿÿ8½û×1
+>
+java:S1643"Use a StringBuilder instead.(§å§öÿÿÿÿÿ8½û×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘­åøÿÿÿÿ8½û×1
+T
+java:S2130"8Use "Long.parseLong" for this string-to-long conversion.(³ÒC8¢½û×1

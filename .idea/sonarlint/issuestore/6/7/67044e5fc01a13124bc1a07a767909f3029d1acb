@@ -1,0 +1,8 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(Üâ »şÿÿÿÿ8Ê´‘†×1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤·óÖ8à£Ü…×1
+K
+java:S5413")Verify that "remove()" is used correctly.(ç“—”şÿÿÿÿ8™„†×1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ…›…ûÿÿÿÿ8„†×1
+L	java:S106"+Replace this use of System.out by a logger.(É…®ışÿÿÿÿ8Ÿ„†×1

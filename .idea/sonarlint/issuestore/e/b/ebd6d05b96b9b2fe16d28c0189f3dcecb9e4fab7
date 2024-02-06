@@ -1,0 +1,18 @@
+
+9
+java:S1643"Use a StringBuilder instead.(±í«£8ƒÛìÉ×1
+9
+java:S1643 "Use a StringBuilder instead.(ıñé¶8ƒÛìÉ×1
+9
+java:S1643;"Use a StringBuilder instead.(œáé™8ƒÛìÉ×1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ¦‘™8„ÛìÉ×1
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(•í¾Ëûÿÿÿÿ8¤ÛìÉ×1
+j
+java:S5361""HReplace this call to "replaceAll()" by a call to the "replace()" method.(•í¾Ëûÿÿÿÿ8¥ÛìÉ×1
+j
+java:S5361>"HReplace this call to "replaceAll()" by a call to the "replace()" method.(•í¾Ëûÿÿÿÿ8§ÛìÉ×1
+^
+java:S1126?"AReplace this if-then-else statement by a single return statement.(Çñ”®8¨ÛìÉ×1
+L	java:S106O"+Replace this use of System.out by a logger.(î°‰Üûÿÿÿÿ8¬ÛìÉ×1
+L	java:S106Z"+Replace this use of System.out by a logger.(î°‰Üûÿÿÿÿ8®ÛìÉ×1
