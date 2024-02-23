@@ -1,0 +1,16 @@
+
+D
+java:S1604+"(Make this anonymous inner class a lambda(öÈÈ{8à×—ùØ1
+D
+java:S16045"(Make this anonymous inner class a lambda(öÈÈ{8à×—ùØ1
+D
+java:S1604S"(Make this anonymous inner class a lambda(öÈÈ{8à×—ùØ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ìï8â×—ùØ1
+]
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(¼ÆÍ#8šØ—ùØ1
+‰
+java:S1130d"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8°Ø—ùØ1
+L	java:S106g"+Replace this use of System.out by a logger.(İı¡¤ÿÿÿÿÿ8²Ø—ùØ1
+G	java:S106h"+Replace this use of System.out by a logger.(Š…á¥8³Ø—ùØ1
+L	java:S106i"+Replace this use of System.out by a logger.(è Ã¹ÿÿÿÿÿ8³Ø—ùØ1
+G	java:S106j"+Replace this use of System.out by a logger.(ığÄ£8´Ø—ùØ1
