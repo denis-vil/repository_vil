@@ -3719,5 +3719,15 @@ Q.idea/sonarlint/securityhotspotstore/c/7/c7232db1621e044aa4c20f5a2ae03b5cf83db6
 Q.idea/sonarlint/securityhotspotstore/2/7/27269d4c0a93050f23c2059c2a59b7f67e562e04,e/f/efa3d625a6708445e685fef50e8077a87325206a
 Å
 Q.idea/sonarlint/securityhotspotstore/f/b/fb92edec9a41d21fe09fbf48fc0ae01de8677842,7/8/786baeb26ca04c69877884095eac186753a9c391
-I
-src/main/java/sber/SB.csv,b/b/bb13af59a4d356dac5560cf3b863b63c07be17db
+_
+/src/main/java/leetcode/sudokuSolver/Description,5/1/518ca27c9d2238e9d02681471967c39df301191a
+a
+1src/main/java/leetcode/sudokuSolver/Solution.java,1/1/111d0ed247580ef32a7903fcceb1690889d4d333
+[
++src/main/java/june20/summ1to100/Description,d/3/d39f3e957c16f59f64238c856d9bba1ed3e82c17
+]
+-src/main/java/june20/summ1to100/Solution.java,d/e/de4edbd96b6b84545189e6e4b57e80615ebcd70e
+\
+,src/main/java/june20/sum1to100/Solution.java,0/c/0cc75676cd53e7d926c31aa67ffdcb74f3214fd6
+\
+,src/main/java/june24/factorial/Solution.java,9/7/97c226a54f354107a578bc48d4bebb47dc2c649f
